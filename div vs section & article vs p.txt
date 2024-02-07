@@ -1,0 +1,21 @@
+
+Written by: Mousa Khaleel
+
+************************************************************************************************
+
+div vs section:
+
+<div> is a container element that holds other tags and is used for easier manipulation of related elements.
+<section> element was introduced in HTML5, and it is used to group related elements, such as parts of a long article.
+
+
+
+************************************************************************************************
+
+article vs p (paragraph):
+
+<p> is a tag that creates a new paragraph. A paragraph represents a block of text, and it does not keep the style or pre format.
+<article> is a semantic tag it doesn't do anything to its content however, it is used to keep the elements inside of it organized and define the meaning of the content they contain (which helps developers who read the code), and it is important for SEO (search engine optimization) because it indicates the role of the content within it.
+That information helps search engine crawlers understand your content which increases your website's ranking in search results for relevant keywords.
+
+
